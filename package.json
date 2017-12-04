@@ -2,10 +2,14 @@
     "name": "laravel",
     "displayName": "Laravel Theme",
     "description": "Laravel Color Theme",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "nsouto",
     "engines": {
         "vscode": "^1.18.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nsouto/vsce_laravel_theme.git"
     },
     "icon": "icon.png",
     "categories": [
