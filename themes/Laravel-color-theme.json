@@ -1,0 +1,13 @@
+{
+	"tokenColors": "./Laravel.tmTheme",
+	"colors": {
+		"editor.background": "#eeeeee",
+		"editor.foreground": "#000000",
+		"editorWhitespace.foreground": "#999",
+		"editorCursor.foreground": "#555",
+		"editorIndentGuide.background": "#ccc",
+		"editor.lineHighlightBackground": "#f5f5f5",
+		"editor.selectionBackground": "#f8eec7"
+	},
+	"name": "Laravel"
+}
