@@ -1,6 +1,6 @@
 # Laravel Color Theme
 
-Laravel is a Color Theme for Visual Studio Code whish is a fork of [Michael Dyrynda](https://twitter.com/michaeldyrynda) original theme for [Sublime Text 3](https://github.com/michaeldyrynda/Laravel.tmTheme). It is inspired by the syntax highlighting found in the official [Laravel documentation](https://laravel.com/docs).
+Laravel is a Color Theme for Visual Studio Code which is a fork of [Michael Dyrynda](https://twitter.com/michaeldyrynda) original theme for [Sublime Text 3](https://github.com/michaeldyrynda/Laravel.tmTheme). It is inspired by the syntax highlighting found in the official [Laravel documentation](https://laravel.com/docs).
 
 ## Installation
 
