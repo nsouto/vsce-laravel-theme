@@ -44,7 +44,7 @@ You can install this awesome theme through the [Visual Studio Code Marketplace](
 
 ## Supported languages
 
-This colour scheme ought to work with any language in Visual Studio Code, it has been specifically built and tested against languages common to development with Laravel.
+This color scheme ought to work with any language in Visual Studio Code, it has been specifically built and tested against languages common to development with Laravel.
 
 * PHP
 * MySQL
