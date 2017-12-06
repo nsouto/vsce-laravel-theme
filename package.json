@@ -2,7 +2,7 @@
     "name": "laravel",
     "displayName": "Laravel Theme",
     "description": "Laravel Color Theme",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "publisher": "nsouto",
     "engines": {
         "vscode": "^1.18.0"
